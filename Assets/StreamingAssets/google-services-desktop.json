@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "318240178876",
+    "firebase_url": "https://progettouni-wildboar-default-rtdb.firebaseio.com",
+    "project_id": "progettouni-wildboar",
+    "storage_bucket": "progettouni-wildboar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318240178876:android:a1beacd564d33143bd86b9",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.WIld_Boar_survivor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD395jWTrecIgvTrn-qjWoHewIMmZ5kx9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
