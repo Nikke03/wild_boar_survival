@@ -31,7 +31,7 @@ Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in 
 
 | **Nikke** | **Ricky** | **Trozzo** | **Pacho** | **FraDiFra** | **Pucci** | **Bonsi** | **Abba** |
 |----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="Assets/sprite/persone/Personaggio%20x10.png" width="128" height="128"> | ![Ricky](Assets/sprite/persone/Untitled%2030.png) | ![Trozzo](Assets/sprite/persone/trozzo.png) | ![Pacho](Assets/sprite/persone/pacho.png) | ![FraDiFra](Assets/sprite/persone/fradifra.png) | ![Pucci](Assets/sprite/persone/pucci.png) | ![Bonsi](Assets/sprite/persone/bonsi.png) | ![Abba](Assets/sprite/persone/abba.png) |
+| <img src="Assets/sprite/persone/Personaggio%20x10.png" width="250" height="128"> | ![Ricky](Assets/sprite/persone/Untitled%2030.png) | ![Trozzo](Assets/sprite/persone/trozzo.png) | ![Pacho](Assets/sprite/persone/pacho.png) | ![FraDiFra](Assets/sprite/persone/fradifra.png) | ![Pucci](Assets/sprite/persone/pucci.png) | ![Bonsi](Assets/sprite/persone/bonsi.png) | ![Abba](Assets/sprite/persone/abba.png) |
 
 
 
