@@ -6,8 +6,8 @@ Descrizione generale del progetto (da personalizzare).
 
 ## Immagine principale
 
-<div style="width: 100%; overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-  <img src="Assets/sprite/sfondi%20e%20UI/mapOstiense.png" alt="Immagine principale del gioco" style="width: auto; height: 300px; display: inline-block;" />
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); padding: 5px;">
+  <img src="Assets/sprite/sfondi%20e%20UI/mapOstiense.png" alt="Immagine principale del gioco" style="height: 300px; display: inline-block;" />
 </div>
 <p style="text-align: center;">_Immagine descrittiva del gioco._</p>
 
