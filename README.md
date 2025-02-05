@@ -1,15 +1,42 @@
-# Il mio videogioco 2D
+# Wild-Boar-Survival
 
-Descrizione generale del progetto (da personalizzare).
+Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in un anno nel prodotto che vedete. tutti i disegni e le animazioni sono state disegnate da noi per rendere ancora più personale il progetto e per poter esprimere l'immagine che volevamo dare del gioco. è stato sviluppato da due persone ma è il frutto di idee di un gruppo, di amici che si ritrovano alla mensa dell'università e pensano a quali idee assurde aggiungere. Essendo il nostro ultimo esame ci tenevamo a rappresentare il progetto come la fine di un cerchio includendo ognuno di loro all'interno del gioco sotto forma di NPC sulla mappa includendo meme e riferimenti che hanno segnato questi 3 anni. Da parte di ognuno di noi, speriamo che vi piaccia!
 
 ---
 
-
-<div style="width: 100%; overflow-x: auto; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); padding: 5px; white-space: nowrap;">
-  <img src="sfondo.png" alt="Immagine principale del gioco" style="height: 300px; width: auto; min-width: 100%; display: inline-block;" />
+<p style="text-align: center;">Immagine divisa in sezioni per una visualizzazione ottimale.</p>
+<div style="display: flex; overflow-x: auto; gap: 5px; padding: 5px; border: 1px solid #ddd; border-radius: 4px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+    <img src="Assets/sprite/sfondo/mapOstiense1.png" style="height: auto; width: 100%;">
+    <img src="Assets/sprite/sfondo/mapOstiense2.png" style="height: auto; width: 100%;">
+    <img src="Assets/sprite/sfondo/mapOstiense3.png" style="height: auto; width: 100%;">
+    <img src="Assets/sprite/sfondo/mapOstiense4.png" style="height: auto; width: 100%;">
+    <img src="Assets/sprite/sfondo/mapOstiense5.png" style="height: auto; width: 100%;">
 </div>
-<p style="text-align: center;">Immagine descrittiva del gioco.</p>
 
+# Alcune Sprite
+
+## Sprites di Animazione Cinghiale
+
+| **Invincibile** | **Running** | **Jump** |
+|---------------|------------|------------|
+| ![Invincibile](Assets/sprite/sprite%20cinghiale/Invincibile.png) | ![Running](Assets/sprite/sprite%20cinghiale/Running.png) | ![Cop Run](Assets/sprite/sprite%20cinghiale/Jump.png) |
+
+## Sprites di Animazione Nemici
+
+| **Poliziotto Run** | **Poliziotto Hit** | **Gabbiano** |
+|---------------|------------|------------|
+| ![Run](Assets/sprite/sprite%20cinghiale/CopRun%202.png) | ![Hit](Assets/sprite/sprite%20cinghiale/CopHit.png) | ![Gabbiano](Assets/sprite/altre%20sprite/Image.png) |
+
+## Alcuni nostri amici
+
+| **Nikke** | **Ricky** | **Trozzo** | **Pacho** | **FraDiFra** | **Pucci** | **Bonsi** | **Abba** |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="Assets/sprite/persone/Personaggio%20x10.png" width="200" height="128"> | ![Ricky](Assets/sprite/persone/Untitled%2030.png) | ![Trozzo](Assets/sprite/persone/trozzo.png) | ![Pacho](Assets/sprite/persone/pacho.png) | ![FraDiFra](Assets/sprite/persone/fradifra.png) | ![Pucci](Assets/sprite/persone/pucci.png) | ![Bonsi](Assets/sprite/persone/bonsi.png) | ![Abba](Assets/sprite/persone/abba.png) |
+
+
+
+
+---
 ---
 
 ## Gameplay
@@ -22,15 +49,7 @@ Guarda il gameplay in azione!
 
 ---
 
-## Sprites di animazione
 
-Gli sprite utilizzati per le animazioni nel gioco:
-
-![Sprite 1](Assets/sprite/Sprite%20Giocatore.png)
-![Sprite 2](Assets/sprite/Sprite%20Nemico.png)
-![Sprite 3](Assets/sprite/Sprite%20Ostacolo.png)
-
----
 
 ## Come giocare
 
