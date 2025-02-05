@@ -6,7 +6,7 @@ Descrizione generale del progetto (da personalizzare).
 
 ## Immagine principale
 
-![Immagine principale del gioco](https://via.placeholder.com/800x400)
+![Immagine principale del gioco](Assets/sprite/sfondi%20e%20UI/mapOstiense.png)
 _Immagine descrittiva del gioco._
 
 ---
