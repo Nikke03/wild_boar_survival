@@ -1,6 +1,6 @@
 # Wild-Boar-Survival
 
-Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in un anno nel prodotto che vedete. tutti i disegni e le animazioni sono state disegnate da noi per rendere ancora più personale il progetto e per poter esprimere l'immagine che volevamo dare del gioco. è stato sviluppato da due persone ma è il frutto di idee di un gruppo, di amici che si ritrovano alla mensa dell'università e pensano a quali idee assurde aggiungere. Essendo il nostro ultimo esame ci tenevamo a rappresentare il progetto come la fine di un cerchio includendo ognuno di loro all'interno del gioco sotto forma di NPC sulla mappa includendo meme e riferimenti che hanno segnato questi 3 anni. Da parte di ognuno di noi, speriamo che vi piaccia!
+Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in un anno nel prodotto che vedete. **Tutti i disegni e le animazioni sono state disegnate da noi** per rendere ancora più personale il progetto e per poter esprimere l'immagine che volevamo dare del gioco. è stato sviluppato da due persone ma è il frutto di idee di un gruppo, di amici che si ritrovano alla mensa dell'università e pensano a quali idee assurde aggiungere. Essendo il nostro ultimo esame ci tenevamo a rappresentare il progetto come la fine di un cerchio includendo ognuno di loro all'interno del gioco sotto forma di NPC sulla mappa includendo meme e riferimenti che hanno segnato questi 3 anni. Da parte di ognuno di noi, speriamo che vi piaccia!
 
 ---
 
