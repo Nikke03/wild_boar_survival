@@ -6,8 +6,10 @@ Descrizione generale del progetto (da personalizzare).
 
 ## Immagine principale
 
-![Immagine principale del gioco](Assets/sprite/sfondi%20e%20UI/mapOstiense.png)
-_Immagine descrittiva del gioco._
+<div style="width: 100%; overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; border-radius: 4px; padding: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+  <img src="Assets/sprite/sfondi%20e%20UI/mapOstiense.png" alt="Immagine principale del gioco" style="width: auto; height: 300px; display: inline-block;" />
+</div>
+<p style="text-align: center;">_Immagine descrittiva del gioco._</p>
 
 ---
 
@@ -25,23 +27,9 @@ Guarda il gameplay in azione!
 
 Gli sprite utilizzati per le animazioni nel gioco:
 
-![Sprite 1](https://via.placeholder.com/100x100)
-![Sprite 2](https://via.placeholder.com/100x100)
-![Sprite 3](https://via.placeholder.com/100x100)
-![Sprite 4](https://via.placeholder.com/100x100)
-![Sprite 5](https://via.placeholder.com/100x100)
-
-> Aggiungi più immagini qui se necessario.
-
----
-
-## Altre immagini del gioco
-
-Queste immagini mostrano alcune scene chiave del gioco:
-
-![Immagine lunga 1](https://via.placeholder.com/800x600)
-![Immagine lunga 2](https://via.placeholder.com/800x600)
-![Immagine lunga 3](https://via.placeholder.com/800x600)
+![Sprite 1](Assets/sprite/Sprite%20Giocatore.png)
+![Sprite 2](Assets/sprite/Sprite%20Nemico.png)
+![Sprite 3](Assets/sprite/Sprite%20Ostacolo.png)
 
 ---
 
@@ -54,9 +42,3 @@ Istruzioni su come eseguire il gioco (da personalizzare).
 ## Contatti
 
 Se hai domande o feedback, contattami all'indirizzo [email@example.com](mailto:email@example.com).
-
----
-
-### Ringraziamenti
-
-Ringrazio tutti coloro che hanno contribuito al progetto!
