@@ -1,6 +1,6 @@
 # Wild-Boar-Survival
-
-Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in un anno nel prodotto che vedete. **Tutti i disegni e le animazioni sono state disegnate da noi** per rendere ancora più personale il progetto e per poter esprimere l'immagine che volevamo dare del gioco. è stato sviluppato da due persone ma è il frutto di idee di un gruppo, di amici che si ritrovano alla mensa dell'università e pensano a quali idee assurde aggiungere. Essendo il nostro ultimo esame ci tenevamo a rappresentare il progetto come la fine di un cerchio includendo ognuno di loro all'interno del gioco sotto forma di NPC sulla mappa includendo meme e riferimenti che hanno segnato questi 3 anni. Da parte di ognuno di noi, speriamo che vi piaccia!
+ **Tutti i disegni e le animazioni sono state disegnate da noi** per rendere ancora più personale il progetto e per poter esprimere l'immagine che volevamo dare del gioco.
+ Da parte  nostra, speriamo vi piaccia!
 
 ---
 
@@ -34,8 +34,6 @@ Questo progetto è nato da un idea di un gruppo di amici per poi svilupparsi in 
 | <img src="Assets/sprite/persone/Personaggio%20x10.png" width="250" height="128"> | ![Ricky](Assets/sprite/persone/Untitled%2030.png) | ![Trozzo](Assets/sprite/persone/trozzo.png) | ![Pacho](Assets/sprite/persone/pacho.png) | ![FraDiFra](Assets/sprite/persone/fradifra.png) | ![Pucci](Assets/sprite/persone/pucci.png) | ![Bonsi](Assets/sprite/persone/bonsi.png) | ![Abba](Assets/sprite/persone/abba.png) |
 
 
-
-
 ---
 ---
 
@@ -49,13 +47,6 @@ Guarda il gameplay in azione!
 
 ---
 
-
-
-## Come giocare
-
-Istruzioni su come eseguire il gioco (da personalizzare).
-
----
 
 ## Contatti
 
