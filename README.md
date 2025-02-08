@@ -37,17 +37,4 @@
 ---
 ---
 
-## Gameplay
 
-Guarda il gameplay in azione!
-
-[![Guarda il video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-> Nota: Sostituisci il link con un video del tuo gioco.
-
----
-
-
-## Contatti
-
-Se hai domande o feedback, contattami all'indirizzo [email@example.com](mailto:email@example.com).
