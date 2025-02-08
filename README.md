@@ -34,7 +34,3 @@
 | <img src="Assets/sprite/persone/Personaggio%20x10.png" width="250" height="128"> | ![Ricky](Assets/sprite/persone/Untitled%2030.png) | ![Trozzo](Assets/sprite/persone/trozzo.png) | ![Pacho](Assets/sprite/persone/pacho.png) | ![FraDiFra](Assets/sprite/persone/fradifra.png) | ![Pucci](Assets/sprite/persone/pucci.png) | ![Bonsi](Assets/sprite/persone/bonsi.png) | ![Abba](Assets/sprite/persone/abba.png) |
 
 
----
----
-
-
